@@ -1,0 +1,8 @@
+names:
+- Glioma
+- Meningioma
+- No Tumor
+- Pituitary
+path: C:/Files/Python/30 Days Of Heat/Computer Vision/Brain-Tumor_Detection
+train: images/train
+val: images/val
